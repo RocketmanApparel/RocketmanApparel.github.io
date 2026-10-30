@@ -19,12 +19,16 @@ text-align: center;
 }
 
 .logo-area {
-padding: 10px 0 20px;
+padding: 8px 0;
 }
 
 .logo {
-max-height: 120px;
+max-height: 70px;
 width: auto;
+}
+
+header {
+  padding: 10px;
 }
 
 nav a {
